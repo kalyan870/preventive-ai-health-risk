@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VitalScan AI - Health Risk Predictor",
+  "description": "A high-end preventive health platform that uses advanced AI to analyze vitals, lifestyle choices, and symptoms to predict health risks and provide actionable preventive strategies.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
